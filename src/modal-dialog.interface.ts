@@ -1,4 +1,4 @@
-﻿import { ComponentRef } from '@angular/core';
+import { ComponentRef } from '@angular/core';
 import { Observable, Subject } from 'rxjs';
 
 export interface IModalDialog {
